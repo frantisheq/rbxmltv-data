@@ -16,7 +16,7 @@ The description must be unique for each source, and is displayed on the UI.
 -->
         <mappings>
                 <channel name="frantisheq.channels.xml">
-                        <url>http://github.com/frantisheq/rbxmltv-data/raw/master/frantisheq.channels.xml</url>
+                        <url>http://github.com/frantisheq/rbxmltv-data/raw/master/frantisheq.channels.xml.xz</url>
                 </channel>
         </mappings>
 
@@ -24,7 +24,7 @@ The description must be unique for each source, and is displayed on the UI.
         <sourcecat sourcecatname="Frantisheq CZ SK XMLTV">
                 <source type="gen_xmltv" nocheck="1" channels="frantisheq.channels.xml">
                         <description>All</description>
-                        <url>http://github.com/frantisheq/rbxmltv-data/raw/master/cz-sk.xml</url>
+                        <url>http://github.com/frantisheq/rbxmltv-data/raw/master/cz-sk.xml.xz</url>
                 </source>
         </sourcecat>
 </sources>
