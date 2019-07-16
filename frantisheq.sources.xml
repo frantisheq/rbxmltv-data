@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="latin-1"?>
+<sources>
+
+        <!--
+You can list as many <source> entries in a file as you wish.
+Files or urls for sources and channels ending in '.gz' will be treated as
+gzipped and decompressed while processing.
+Use the "type" attribute to set the python module that handles the file,
+currently type="gen_xmltv" and type="epg.dat" are supported, more will follow once this plugin
+gets more popular.
+The channels property is the local file or URL with channel ID to service ref
+mappings. The default is the same filename but with .channels.xml as extension.
+Each source may use a different channels definition, or multiple sources may use
+the same, whatever is convenient.
+The description must be unique for each source, and is displayed on the UI.
+-->
+        <mappings>
+                <channel name="frantisheq.channels.xml">
+                        <url>http://github.com/frantisheq/rbxmltv-data/raw/master/frantisheq.channels.xml</url>
+                </channel>
+        </mappings>
+
+
+        <sourcecat sourcecatname="Frantisheq CZ SK XMLTV">
+                <source type="gen_xmltv" nocheck="1" channels="frantisheq.channels.xml">
+                        <description>All</description>
+                        <url>http://github.com/frantisheq/rbxmltv-data/raw/master/cz-sk.xml</url>
+                </source>
+        </sourcecat>
+</sources>
