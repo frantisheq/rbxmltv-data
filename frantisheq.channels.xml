@@ -42,7 +42,7 @@
 <!-- 16.0E --><channel id="42-ta3">1:0:16:489:76C0:16E:A00000:0:0:0:</channel><!-- TA3 (24h) -->
 <!-- 16.0E --><channel id="225-doma">1:0:16:453:526C:16E:A00000:0:0:0:</channel><!-- Doma -->
 <!-- 16.0E --><channel id="718-wau">1:0:16:47F:76C0:16E:A00000:0:0:0:</channel><!-- Wau -->
-<!-- 23.5E --><channel id="687-arena-sport-1">1:0:1:13B2:C95:3:EB0000:0:0:0:</channel><!-- Arena Sport 1 -->
+<!-- 23.5E --><channel id="687-arena-sport-1">1:0:16:524B:C99:3:EB0000:0:0:0:</channel><!-- Arena Sport 1 -->
 <!-- 23.5E --><channel id="683-tv-dajto">1:0:19:3397:C89:3:EB0000:0:0:0:</channel><!-- DAJTO HD -->
 <!-- 23.5E --><channel id="11-stv2">1:0:1:13F2:C87:3:EB0000:0:0:0:</channel><!-- Dvojka -->
 <!-- 23.5E --><channel id="11-stv2">1:0:19:132A:CA2:3:EB0000:0:0:0:</channel><!-- STV2 HD -->
@@ -63,7 +63,7 @@
 <!-- 23.5E --><channel id="42-ta3">1:0:19:1328:CA2:3:EB0000:0:0:0:</channel><!-- TA3 (Mo-Fr 07-24 & S -->
 <!-- 23.5E --><channel id="241-tv8">1:0:19:1332:CA2:3:EB0000:0:0:0:</channel><!-- TV8 (TV Osem) -->
 <!-- 23.5E --><channel id="241-tv8">1:0:1:13D7:C8A:3:EB0000:0:0:0:</channel><!-- 241-tv8 -->
-<!-- 23.5E --><channel id="225-doma">1:0:1:13B6:C95:3:EB0000:0:0:0:</channel><!-- DOMA HD -->
+<!-- 23.5E --><channel id="225-doma">1:0:19:3732:C8E:3:EB0000:0:0:0:</channel><!-- DOMA HD -->
 <!-- 23.5E --><channel id="718-wau">1:0:19:371F:C8E:3:EB0000:0:0:0:</channel><!-- WAU HD -->
 <!-- IPTV --><channel id="42-ta3">1:0:1:67:1:48:0:0:0:0:http%3a//example.com</channel><!-- TA3 (24h) -->
 <!-- IPTV --><channel id="42-ta3">4097:0:1:67:1:48:0:0:0:0:http%3a//example.com</channel><!-- TA3 (24h) -->
