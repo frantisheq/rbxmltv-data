@@ -122,7 +122,8 @@
 <!-- 0.8W --><channel id="127-golf-channel">1:0:1:1B59:65:1771:E080000:0:0:0:</channel><!-- Golf Channel -->
 <!-- 0.8W --><channel id="6-hbo">1:0:1:75FA:2BE:600:E080000:0:0:0:</channel><!-- HBO Czechia -->
 <!-- 0.8W --><channel id="6-hbo">1:0:19:7E1:AF2:BB:E080000:0:0:0:</channel><!-- HBO Czechia HD -->
-<!-- 0.8W --><channel id="115-hbo3">1:0:1:BC8:AF3:BB:E080000:0:0:0:</channel><!-- HBO 3 Central Europe -->
+<!-- 0.8W --><channel id="54-hbo2">1:0:1:77F1:2C3:600:E080000:0:0:0:</channel><!-- HBO 2 Central Europe -->
+<!-- 0.8W --><channel id="115-hbo3">1:0:1:D98:C:1:E082E7C:0:0:0:</channel><!-- HBO 3 Central Europe -->
 <!-- 0.8W --><channel id="137-jim-jam">1:0:1:77FD:2C3:600:E080000:0:0:0:</channel><!-- JimJam Europe -->
 <!-- 0.8W --><channel id="1023-joj-cinema">1:0:16:401:AF1:BB:E080000:0:0:0:</channel><!-- JOJ Cinema -->
 <!-- 0.8W --><channel id="1023-joj-cinema">1:0:19:1789:AF6:BB:E080000:0:0:0:</channel><!-- JOJ Cinema HD -->
