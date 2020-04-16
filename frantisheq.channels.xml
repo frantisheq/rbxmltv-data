@@ -253,7 +253,7 @@
 <!-- 23.5E --><channel id="1037-barrandov-news">1:0:1:145C:C98:3:EB0000:0:0:0:</channel><!-- Barrandov MUZIKA -->
 <!-- 23.5E --><channel id="1020-barrandov-krimi">1:0:1:145B:C98:3:EB0000:0:0:0:</channel><!-- Barrandov Plus -->
 <!-- 23.5E --><channel id="1020-barrandov-krimi">1:0:19:132D:CA2:3:EB0000:0:0:0:</channel><!-- Barrandov Plus HD -->
-<!-- 23.5E --><channel id="1190-tv-brno-1">1:0:16:132F:CA2:3:EB0000:0:0:0:</channel><!-- Brnenská TV -->
+<!-- 23.5E --><channel id="1324-trojka">1:0:16:132F:CA2:3:EB0000:0:0:0:</channel><!-- Trojka -->
 <!-- 23.5E --><channel id="1144-ceskoslovensko">1:0:1:13C2:C95:3:EB0000:0:0:0:</channel><!-- Československo HD -->
 <!-- 23.5E --><channel id="1144-ceskoslovensko">1:0:19:17B0:C82:3:EB0000:0:0:0:</channel><!-- Československo HD -->
 <!-- 23.5E --><channel id="66-cinemax">1:0:1:30A:C94:3:EB0000:0:0:0:</channel><!-- Cinemax East Europe -->
@@ -273,6 +273,7 @@
 <!-- 23.5E --><channel id="3-ct2">1:0:1:334C:C93:3:EB0000:0:0:0:</channel><!-- CT 2 -->
 <!-- 23.5E --><channel id="3-ct2">1:0:19:1326:CA2:3:EB0000:0:0:0:</channel><!-- CT 2 HD -->
 <!-- 23.5E --><channel id="3-ct2">1:0:19:1F42:CA1:3:EB0000:0:0:0:</channel><!-- CT 2 HD -->
+<!-- 23.5E --><channel id="1333-ct3">1:0:19:1F46:CA1:3:EB0000:0:0:0:</channel><!-- CT 3 HD -->
 <!-- 23.5E --><channel id="65-ct24">1:0:1:1F46:BC6:3:EB0000:0:0:0:</channel><!-- CT 24 -->
 <!-- 23.5E --><channel id="65-ct24">1:0:1:334D:C93:3:EB0000:0:0:0:</channel><!-- CT 24 -->
 <!-- 23.5E --><channel id="65-ct24">1:0:19:1F43:CA1:3:EB0000:0:0:0:</channel><!-- CT 24 -->
@@ -332,6 +333,7 @@
 <!-- 23.5E --><channel id="717-kinosvet">1:0:16:334D:C93:3:EB0000:0:0:0:</channel><!-- KinoSvet -->
 <!-- 23.5E --><channel id="717-kinosvet">1:0:16:372F:C8E:3:EB0000:0:0:0:</channel><!-- KinoSvet -->
 <!-- 23.5E --><channel id="191-lux">1:0:19:145A:C98:3:EB0000:0:0:0:</channel><!-- TV Lux -->
+<!-- 23.5E --><channel id="1320-love-nature">1:0:19:30F:C94:3:EB0000:0:0:0:</channel><!-- Love Nature HD CZ -->
 <!-- 23.5E --><channel id="82-amc">1:0:1:1423:C85:3:EB0000:0:0:0:</channel><!-- AMC Central Europe -->
 <!-- 23.5E --><channel id="82-amc">1:0:16:36FB:C8C:3:EB0000:0:0:0:</channel><!-- AMC Central Europe -->
 <!-- 23.5E --><channel id="57-minimax">1:0:16:3724:C8E:3:EB0000:0:0:0:</channel><!-- Minimax -->
