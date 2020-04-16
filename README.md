@@ -12,4 +12,5 @@ An example from services.m3u playlist for Jednotka on Skylink:
 #EXTINF:-1 tvg-chno="4905" tvg-logo="http://..." tvg-id="1:0:19:1329:CA2:3:EB0000:0:0:0:" tvg-name="Jednotka",Jednotka
 
 in frantisheq.channels.xml it'll look like this. 10-stv1 is an xmltv id from cz-sk.xml:
-<!-- 23.5E --><channel id="10-stv1">1:0:19:1329:CA2:3:EB0000:0:0:0:</channel><!-- Jednotka -->
+
+\<!-- 23.5E -->\<channel id="10-stv1">1:0:19:1329:CA2:3:EB0000:0:0:0:\</channel>\<!-- Jednotka -->
