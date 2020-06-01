@@ -1,8 +1,8 @@
 cz-sk+0x00.xml - czech & slovak xmltv file
 
 For Enigma2 sat receivers:
-- CrossEPG - download frantisheq_xmltv.conf to /usr/crossepg/providers
-- ImportEPG - download frantisheq.sources.xml to /etc/epgimport
+- EPGImport - download frantisheq.sources.xml to /etc/epgimport
+- CrossEPG - download frantisheq_xmltv.conf to /usr/crossepg/providers - not updated for now
 
 
 If there is guide missing or incorrect and it's available on tvp.cz you'll need to provide name of the channel on tvp.cz, name of the channel on your satellite receiver including satellite position and numbers like these 1:0:1:13F1:C87:3:EB0000:0:0:0: which can be found in services.m3u downloaded from your receiver using OpenWebif.

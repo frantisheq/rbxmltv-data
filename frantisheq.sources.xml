@@ -15,16 +15,36 @@ the same, whatever is convenient.
 The description must be unique for each source, and is displayed on the UI.
 -->
         <mappings>
-                <channel name="frantisheq.channels.xml">
-                        <url>http://github.com/frantisheq/rbxmltv-data/raw/master/frantisheq.channels.xml.xz</url>
+                <channel name="frantisheq.+0000.channels.xml">
+                        <url>http://github.com/frantisheq/rbxmltv-data/raw/master/frantisheq.+0000.channels.xml.xz</url>
+                </channel>
+                <channel name="frantisheq.+0100.channels.xml">
+                        <url>http://github.com/frantisheq/rbxmltv-data/raw/master/frantisheq.+0100.channels.xml.xz</url>
+                </channel>
+                <channel name="frantisheq.+0200.channels.xml">
+                        <url>http://github.com/frantisheq/rbxmltv-data/raw/master/frantisheq.+0200.channels.xml.xz</url>
                 </channel>
         </mappings>
 
 
-        <sourcecat sourcecatname="Frantisheq CZ SK XMLTV">
-                <source type="gen_xmltv" nocheck="1" channels="frantisheq.channels.xml">
-                        <description>All</description>
-                        <url>http://github.com/frantisheq/rbxmltv-data/raw/master/cz-sk.xml.xz</url>
+        <sourcecat sourcecatname="Frantisheq CZ SK XMLTV +0000">
+                <source type="gen_xmltv" nocheck="1" channels="frantisheq.+0000.channels.xml">
+                        <description>+0000 timezone</description>
+                        <url>http://github.com/frantisheq/rbxmltv-data/raw/master/cz-sk+0000.xml.xz</url>
+                </source>
+        </sourcecat>
+
+        <sourcecat sourcecatname="Frantisheq CZ SK XMLTV +0100">
+                <source type="gen_xmltv" nocheck="1" channels="frantisheq.+0100.channels.xml">
+                        <description>+0100 timezone</description>
+                        <url>http://github.com/frantisheq/rbxmltv-data/raw/master/cz-sk+0100.xml.xz</url>
+                </source>
+        </sourcecat>
+
+        <sourcecat sourcecatname="Frantisheq CZ SK XMLTV +0200">
+                <source type="gen_xmltv" nocheck="1" channels="frantisheq.+0200.channels.xml">
+                        <description>+0200 timezone</description>
+                        <url>http://github.com/frantisheq/rbxmltv-data/raw/master/cz-sk+0200.xml.xz</url>
                 </source>
         </sourcecat>
 </sources>
